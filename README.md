@@ -13,8 +13,9 @@
 
 <center>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunaipa5&show_icons=true&locale=en&layout=compact" alt="sunaipa5" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunaipa5&show_icons=true&locale=en" alt="sunaipa5" /></p>
   </center>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunaipa5&show_icons=true&locale=en" alt="sunaipa5" /></p>
+
 
