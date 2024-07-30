@@ -1,5 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
 # sunaipa5
 ![Stats](https://github-readme-stats.vercel.app/api?username=sunaipa5&theme=dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunaipa5&theme=dark&hide_progress=true)
