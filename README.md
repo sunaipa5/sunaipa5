@@ -1,9 +1,9 @@
 # sunaipa5
-![Stats](https://github-readme-stats.vercel.app/api?username=sunaipa5&theme=dark&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunaipa5&theme=dark&hide_progress=true)
 
 ## Go Libraries
 [![Goself](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=goself&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/goself)
+[![Go-webkit6](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=go-webkit6&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/go-webkit6)
+[![LibvlcPurego](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=libvlcPurego&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/libvlcPurego)
 [![Reqtor](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=reqtor&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/reqtor)
 [![Jager](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=jager&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/jager)
 [![HlsClipper](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=hlsClipper&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/hlsClipper)
