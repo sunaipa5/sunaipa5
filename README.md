@@ -14,6 +14,7 @@
 
 ## Apps
 [![Torrcli](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=torrcli&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/torrcli)
+[![Purebind](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=purebind&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/purebind)
 [![Soundark](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=soundark&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/soundark)
 [![Reddit-windows-app](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=reddit-windows-app&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/reddit-windows-app)
 
