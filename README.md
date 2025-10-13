@@ -21,7 +21,7 @@
 ## Frameworks
 [![Simplify](https://github-readme-stats.vercel.app/api/pin/?username=sunaipa5&repo=simplify&theme=dark&description_lines_count=1)](https://github.com/sunaipa5/simplify)
 
-![](https://profile-view-count.sunaipa.workers.dev)
+![](https://profile-view-count.sunaipa.workers.dev?tiny=1)
 
 
 
